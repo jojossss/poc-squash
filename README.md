@@ -8,4 +8,5 @@ add ui for feat inbox
 integrate with api feat inbox
 init feat notif
 add ui for feat notif
+integrate with api feat notif
 # POC Squash
